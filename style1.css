@@ -1,5 +1,6 @@
-nav div a.title{
+div ul p.title{
     font-size:30px;
+    margin-left:250px;
 }
 
 div.install ul li{
@@ -16,4 +17,9 @@ div ul p.subtitle{
 
 div ul li a.href{
     text-decoration:none;
+}
+
+.title{
+    font-size:30px;
+    margin-left:250px;
 }
