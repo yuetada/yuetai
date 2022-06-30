@@ -1,14 +1,19 @@
-#subtitle{
-    color:black;
-    margin-bottom:-10px
+nav div a.title{
+    font-size:30px;
 }
 
-.install{
+div.install ul li{
     color:rgb(19, 109, 1);
     font-size:20px;
     margin-left:15%;
 }
-.subtitle{
+div ul p.subtitle{
     color:black;
-    margin-bottom:-10px
+    margin-left:15%;
+    margin-bottom:-10px;
+    font-size:20px;
+}
+
+div ul li a.href{
+    text-decoration:none;
 }
