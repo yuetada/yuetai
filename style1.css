@@ -6,5 +6,9 @@
 .install{
     color:rgb(19, 109, 1);
     font-size:20px;
-    margin-left:25%;
+    margin-left:15%;
+}
+.subtitle{
+    color:black;
+    margin-bottom:-10px
 }
